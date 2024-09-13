@@ -5,8 +5,6 @@
 <img align="right" alt="Coding" width="400" src="https://tse1.mm.bing.net/th?id=OIG3.3xT_VXfKTD1ICfgnLGEq&pid=ImgGn">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkrahul05&label=Profile%20views&color=0e75b6&style=flat" alt="rkrahul05" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rkrahul05" alt="rkrahul05" /></a> </p>
-
 - 🌱 I’m currently learning **Design Pattern**
 
 - 💬 Ask me about **ASP.NET Core, Backend Development**
