@@ -1,8 +1,6 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr6T0qd-um21rxv2pfvsKo2dlPH0m5NE-2cg&s)]
-
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://tse1.mm.bing.net/th?id=OIG3.3xT_VXfKTD1ICfgnLGEq&pid=ImgGn">
+<img align="right" alt="Coding" width="400" height="400" border-radius="50%" object-fit= "cover" src="https://tse1.mm.bing.net/th?id=OIG3.3xT_VXfKTD1ICfgnLGEq&pid=ImgGn">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkrahul05&label=Profile%20views&color=0e75b6&style=flat" alt="rkrahul05" /> </p>
 
 - 🌱 I’m currently learning **Design Pattern**
